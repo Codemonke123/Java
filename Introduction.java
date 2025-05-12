@@ -10,8 +10,8 @@ public class Introduction {
         name=s.nextLine();
         work=s.nextLine();
         System.out.println("\n");
-        System.out.println("-"+name);
-        System.out.println("-"+work);
+        System.out.println("My name is "+name);
+        System.out.println("I am working on "+work);
 
        
     }
