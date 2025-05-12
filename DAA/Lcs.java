@@ -2,7 +2,7 @@ package DAA;
 
 import java.util.Scanner;
 
-public class Lcs5 {
+public class Lcs {
 
     static int[][] c = new int[100][100];
     static char[][] B = new char[100][100];
